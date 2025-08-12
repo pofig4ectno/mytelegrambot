@@ -13,6 +13,7 @@ dp = Dispatcher(bot)
 files = {
     "video1": "files/video1.mp4",
     "book": "files/book.pdf"
+    "myfile": "files/Heavy_Hearts.torrent"
 }
 
 @dp.message_handler(commands=['start'])
