@@ -1,0 +1,3 @@
+BOT_TOKEN = "8405164482:AAFCHeExbi2pzzidf93l2FLmKx04Loo32X8"
+CHANNEL_ID = -1002885603472
+CHANNEL_LINK = "https://t.me/spunchgames"
