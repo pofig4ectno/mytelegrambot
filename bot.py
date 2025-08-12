@@ -12,7 +12,7 @@ dp = Dispatcher(bot)
 # Ключ -> путь к файлу
 files = {
     "video1": "files/video1.mp4",
-    "book": "files/book.pdf"
+    "book": "files/book.pdf",
     "heavyhearts": "files/Heavy_Hearts.torrent"
 }
 
